@@ -3,7 +3,7 @@
 This is a two player Tic-Tac-Toe game whe
 
 
-!<img width="773" alt="Screen Shot 2022-05-21 at 7 28 33 PM" src="https://user-images.githubusercontent.com/102008028/169672189-709e137a-0d05-4129-a40c-4a1db6c2ac0e.png">
+<img width="773" alt="Screen Shot 2022-05-21 at 7 28 33 PM" src="https://user-images.githubusercontent.com/102008028/169672189-709e137a-0d05-4129-a40c-4a1db6c2ac0e.png">
 
 
 ## Languages Used 
